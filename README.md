@@ -8,8 +8,8 @@ Ethereum Sepolia
 
 I am using Chainlink Services
 
-Data Feed - get the ETH/USD price
-Automation - to manage the liquidation process when it is undercollateralized
+- Data Feed - get the ETH/USD price
+- Automation - to manage the liquidation process when it is undercollateralized
 
 [Automation Job](https://automation.chain.link/sepolia/23177624539436074541484026539024412730691343410698820175280116059508773156266)
 
